@@ -1,4 +1,5 @@
 # HundredDayCodeSprint
+![image](https://github.com/user-attachments/assets/0b14cbe0-a800-4493-82b9-dd18883812eb)
 I’m starting a 100-day coding challenge to improve my skills and build a habit of consistent practice. Each day, I’ll work on coding problems and personal projects to keep growing and pushing myself.
 
 After a few tries that didn’t go as planned, I’m giving it another go by committing publicly this time to this challenge starting today.
