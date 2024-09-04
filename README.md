@@ -13,3 +13,11 @@ If I miss a day, I’ll get back on track the next day.
 I might take occasional breaks if something urgent comes up.
 
 #100DaysOfCode
+
+### Day 1 (04-09-2024)
+- Solved 2-3 array questions
+  - reversal of array with the swapping method (previously used to declare new array for the same which used to have greater space complexity).
+  - returning the index of the unique element from a sorted array and if not found then place that element in the array and return the newly formed array.
+  - Find Unique element [https://bit.ly/3y01Zdu ].\
+>[!NOTE]
+_Its not like i didn't know how to reverse an array by just swapping but its just that my brain is always unknowingly attracted to brute force method instead. Its like my brain keeps whispering, “Let’s reinvent the wheel every time._
