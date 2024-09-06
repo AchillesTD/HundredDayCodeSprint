@@ -26,3 +26,5 @@ _Its not like i didn't know how to reverse an array by just swapping but its jus
 - Had to take the day off due to prior commitments that occupied my entire day.
 
 ### Day 3 (06-09-2024)
+- Solved 2 questions and worked on my gstreamer project mostly
+  - Solved a question that my workplace colleague suggested where I had to return the index of an element (int) from a sorted array and if that element doesnt exists then I have to add that element in the array such that the new array is sorted as well and then finally return the index from the newly created/sorted array. (was a fun question except for the part where i used linear search instead of binary)
