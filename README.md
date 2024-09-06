@@ -21,3 +21,8 @@ I might take occasional breaks if something urgent comes up.
   - Find Unique element [https://bit.ly/3y01Zdu ].\
 >[!NOTE]
 _Its not like i didn't know how to reverse an array by just swapping but its just that my brain is always unknowingly attracted to brute force method instead. Its like my brain keeps whispering, “Let’s reinvent the wheel every time._
+
+### Day 2 (05-09-2024)
+- Had to take the day off due to prior commitments that occupied my entire day.
+
+### Day 3 (06-09-2024)
