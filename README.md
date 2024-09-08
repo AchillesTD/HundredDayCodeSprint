@@ -33,7 +33,7 @@ _Its not like i didn't know how to reverse an array by just swapping but its jus
 - BDay off :)
 
 ### Day 5 (08-09-2024)
-- Solved few array questions again and revised OOPS concepts
+- Solved few array questions again and revised OOPS concepts (Inheritence only)
   - [1207.Unique number of occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
   - [Duplicate In Array](https://www.naukri.com/code360/problems/duplicate-in-array_893397)
   - [Intersection Of Two Sorted Arrays](https://www.naukri.com/code360/problems/intersection-of-2-arrays_1082149)
