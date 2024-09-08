@@ -18,7 +18,7 @@ I might take occasional breaks if something urgent comes up.
 - Solved 2-3 array questions
   - reversal of array with the swapping method (previously used to declare new array for the same which used to have greater space complexity).
   - returning the index of the unique element from a sorted array and if not found then place that element in the array and return the newly formed array.
-  - Find Unique element [https://bit.ly/3y01Zdu ].\
+  - [Find Unique](https://www.naukri.com/code360/problems/find-unique_625159)
 >[!NOTE]
 _Its not like i didn't know how to reverse an array by just swapping but its just that my brain is always unknowingly attracted to brute force method instead. Its like my brain keeps whispering, “Let’s reinvent the wheel every time._
 
@@ -28,3 +28,11 @@ _Its not like i didn't know how to reverse an array by just swapping but its jus
 ### Day 3 (06-09-2024)
 - Solved 2 questions and worked on my gstreamer project mostly
   - Solved a question that my workplace colleague suggested where I had to return the index of an element (int) from a sorted array and if that element doesnt exists then I have to add that element in the array such that the new array is sorted as well and then finally return the index from the newly created/sorted array. (was a fun question except for the part where i used linear search instead of binary)
+
+### Day 4 (07-09-2024)
+- BDay off :)
+
+### Day 5 (08-09-2024)
+- Solved few array questions again and revised OOPS concepts
+  - [1207.Unique number of occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
+  - [Duplicate In Array](https://www.naukri.com/code360/problems/duplicate-in-array_893397)
