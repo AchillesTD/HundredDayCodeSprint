@@ -42,3 +42,12 @@ _Its not like i didn't know how to reverse an array by just swapping but its jus
 - Read and tinkered around with OOPs contructors
 
 
+### Day 7 (10-09-2024)
+- worked with gstreamer trying to get rtsp to web and couldn't find myself time to do anything else
+
+### Day 8 (11-09-2024)
+- Solved some puzzles before 12:30 PM
+  - Puzzles solved - [find-ages-of-daughters](https://www.geeksforgeeks.org/puzzle-2-find-ages-of-daughters/)
+  
+>[!NOTE]
+_I'll have to admit that if I had gotten [this](https://www.geeksforgeeks.org/puzzle-2-find-ages-of-daughters/) puzzle to solve in an interview and it's my first time coming across it then I wouldn't have been able to solve it in my first try as the approach was completely alien to me._
