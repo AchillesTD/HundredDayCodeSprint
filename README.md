@@ -47,7 +47,7 @@ _Its not like i didn't know how to reverse an array by just swapping but its jus
 
 ### Day 8 (11-09-2024)
 - Solved some puzzles before 12:30 PM
-  - Puzzles solved - [find-ages-of-daughters](https://www.geeksforgeeks.org/puzzle-2-find-ages-of-daughters/), [total distance travelled by bee](https://www.geeksforgeeks.org/puzzle-3-calculate-total-distance-travelled-by-bee/), [how-to-measure-45-minutes-using-two-identical-wires](https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/?ref=lbp)
+  - Puzzles solved - [puzzle-2](https://www.geeksforgeeks.org/puzzle-2-find-ages-of-daughters/), [puzzle-3](https://www.geeksforgeeks.org/puzzle-3-calculate-total-distance-travelled-by-bee/), [puzzle-1](https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/?ref=lbp), [puzzle-6](https://www.geeksforgeeks.org/puzzle-6-monty-hall-problem/?ref=lbp)
   
 >[!NOTE]
-_I'll have to admit that if I had gotten [this](https://www.geeksforgeeks.org/puzzle-2-find-ages-of-daughters/) puzzle to solve in an interview and it's my first time coming across it then I wouldn't have been able to solve it in my first try as the approach was completely alien to me._
+_I'll have to admit that if I had gotten [puzzle-2](https://www.geeksforgeeks.org/puzzle-2-find-ages-of-daughters/) puzzle to solve in an interview and it's my first time coming across it then I wouldn't have been able to solve it in my first try as the approach was completely alien to me. Also, [this](https://betterexplained.com/articles/understanding-the-monty-hall-problem/) provides a better understanding of Monty Hall_
