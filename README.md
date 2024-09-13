@@ -51,3 +51,11 @@ _Its not like i didn't know how to reverse an array by just swapping but its jus
   
 >[!NOTE]
 _I'll have to admit that if I had gotten [puzzle-2](https://www.geeksforgeeks.org/puzzle-2-find-ages-of-daughters/) puzzle to solve in an interview and it's my first time coming across it then I wouldn't have been able to solve it in my first try as the approach was completely alien to me. Also, [this](https://betterexplained.com/articles/understanding-the-monty-hall-problem/) provides a better understanding of Monty Hall_
+
+### Day 9 (12-09-2024)
+- Read and practiced some use cases of Inheritence
+- Solved a question where you had to return true/false depending on the input string like if its in the right format then return true (HELLO, Hello, hello) and return false if some incorrect format string is there like (HeLlo, heLLo). (solved this using python but couldn't solve the same using cpp....so i need to work with string manipulation)
+
+### Day 10 (13-09-2024)
+- Solved various versions of Monty hall and gold bar puzzles.
+- find the largest and second largest number in an unsorted array
