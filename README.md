@@ -59,3 +59,13 @@ _I'll have to admit that if I had gotten [puzzle-2](https://www.geeksforgeeks.or
 ### Day 10 (13-09-2024)
 - Solved various versions of Monty hall and gold bar puzzles.
 - find the largest and second largest number in an unsorted array
+
+<br>
+
+> [!IMPORTANT]
+> **Due to my bad health condition, I couldn't do any practical implementation during the weekend, so I'm not sure if I should count those days. For now, I’m not counting them. Sorry.**
+
+<br>
+
+### Day 11 (16-09-2024)
+- Solved some puzzles, 1 CP problem and started OOPs from g4g again for revision
