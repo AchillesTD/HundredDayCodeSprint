@@ -70,3 +70,12 @@ _I'll have to admit that if I had gotten [puzzle-2](https://www.geeksforgeeks.or
 ### Day 11 (16-09-2024)
 - Solved some puzzles, 1 CP problem and started OOPs from g4g again for revision
   - Puzzles solved - [puzzle-16](https://www.geeksforgeeks.org/puzzle-16-100-doors/?ref=lbp), [puzzle-18](https://www.geeksforgeeks.org/puzzle-18-torch-and-bridge/?ref=lbp), [set-35](https://www.geeksforgeeks.org/puzzle-set-35-2-eggs-and-100-floors/?ref=lbp), [puzzle-12](https://www.geeksforgeeks.org/puzzle-12-maximize-probability-of-white-ball/?ref=lbp)
+  - Question- Find the Kth largest number.
+
+### Day 12 (17-09-2024)
+- Studied some core concepts of DBMS, OOPs Access Specifiers
+
+### Day 13 (18-09-2024)
+- I have a placement aptitude and coding test tomorrow, and if I qualify, I’ll be interviewing (Tech and HR) on the same day. I am planning to prepare some interview questions and practice basic coding problems like Armstrong numbers, palindromes, and string manipulation.
+  - Resources- [OOPs in CPP](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/), [DBMS](https://www.geeksforgeeks.org/commonly-asked-dbms-interview-questions/), [OS](https://www.geeksforgeeks.org/what-is-an-operating-system/?ref=lbp)
+  - Puzzles- [Puzzle-27](https://www.geeksforgeeks.org/puzzle-27-hourglasses-puzzle/?ref=lbp), [Puzzle-17](https://www.geeksforgeeks.org/puzzle-17-ratio-of-boys-and-girls-in-a-country-where-people-want-only-boys/?ref=lbp), 
