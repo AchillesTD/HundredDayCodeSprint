@@ -82,3 +82,9 @@ _I'll have to admit that if I had gotten [puzzle-2](https://www.geeksforgeeks.or
 
 >[!NOTE]
 _[the water jug problem](https://www.geeksforgeeks.org/puzzle-water-jug-problem/?ref=lbp) and [camel banana puzzles](https://www.geeksforgeeks.org/puzzle-15-camel-and-banana-puzzle/) are 2 hard ones and hence would require a revision in the future_
+
+### Day 14 (19-09-2024)
+- I attended the placement drive but didn’t get very far. Now, I plan to solve 1-2 puzzles and tackle a competitive programming problem before reviewing some concepts.
+  - Puzzles-
+  - CP problem-
+  - Concepts revised-
