@@ -93,4 +93,8 @@ _[the water jug problem](https://www.geeksforgeeks.org/puzzle-water-jug-problem/
 _I really do enjoy solving puzzles and thus tricky scenarios :)_
 
 ### Day 15 (20-09-2024)
-- 
+-
+  - Puzzles- [elevator-puzzle](https://www.geeksforgeeks.org/puzzle-elevator-puzzle/?ref=ml_lbp), [find-last-ball-remain-entire-process](https://www.geeksforgeeks.org/puzzle-find-last-ball-remain-entire-process/?ref=lbp)
+
+> [!IMPORTANT]
+> **Solved a really nice [elevator puzzle](https://www.geeksforgeeks.org/puzzle-elevator-puzzle/?ref=ml_lbp) today which made me realize just how much I’ve been ignoring my gut instinct. I always jump into the technical stuff pov with puzzles, but I really need to pay more attention to the big picture.**
