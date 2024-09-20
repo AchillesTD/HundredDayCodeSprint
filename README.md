@@ -85,6 +85,12 @@ _[the water jug problem](https://www.geeksforgeeks.org/puzzle-water-jug-problem/
 
 ### Day 14 (19-09-2024)
 - I attended the placement drive but didn’t get very far. Now, I plan to solve 1-2 puzzles and tackle a competitive programming problem before reviewing some concepts.
-  - Puzzles-
-  - CP problem-
-  - Concepts revised-
+  - Puzzles- [puzzle-3-cuts-cut-round-cake-8-equal-pieces](https://www.geeksforgeeks.org/puzzle-3-cuts-cut-round-cake-8-equal-pieces/), [puzzle-25](https://www.geeksforgeeks.org/puzzle-25chessboard-and-dominos/), [puzzle-maximum-pieces-that-can-be-cut-from-a-circle-using-6-straight-lines](https://www.geeksforgeeks.org/puzzle-maximum-pieces-that-can-be-cut-from-a-circle-using-6-straight-lines/), [puzzle-21](https://www.geeksforgeeks.org/puzzle-21-3-ants-and-triangle/?ref=lbp)
+  - CP problem- palindrome, string palindrome
+  - Concepts revised- none :/
+
+>[!NOTE]
+_I really do enjoy solving puzzles and thus tricky scenarios :)_
+
+### Day 15 (20-09-2024)
+- 
