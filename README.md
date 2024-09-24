@@ -103,4 +103,7 @@ _I really do enjoy solving puzzles and thus tricky scenarios :)_
 - Practiced aptitude questions.
 
 ### Day 18 (23-09-2024)
-- 
+- was busy with office work (had to meet a deadline):/
+
+### Day 19 (24-09-2024)
+- Practiced a few Simplification Concepts.
