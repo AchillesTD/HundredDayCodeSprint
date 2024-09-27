@@ -107,3 +107,9 @@ _I really do enjoy solving puzzles and thus tricky scenarios :)_
 
 ### Day 19 (24-09-2024)
 - Practiced a few Simplification Concepts.
+
+### Day 20, 21 (25-26 September)
+- Practiced some verbal ability and synonym & antonym concepts as well as questions (had some important work deadlines to meet thats why couldnt take out time for coding :/ ). 
+
+### Day 22 (27-09-2024)
+- 
