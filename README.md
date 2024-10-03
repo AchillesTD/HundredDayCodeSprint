@@ -112,4 +112,11 @@ _I really do enjoy solving puzzles and thus tricky scenarios :)_
 - Practiced some verbal ability and synonym & antonym concepts as well as questions (had some important work deadlines to meet thats why couldnt take out time for coding :/ ). 
 
 ### Day 22 (27-09-2024)
-- 
+- Practiced OOPs related MCQs
+
+### Day 23, 24, 25, 26, 27 (28 September - 2 October)
+- long break :/
+
+>[!NOTE]
+_I tend to spend my time gaming and reading books on holidays :')_
+
