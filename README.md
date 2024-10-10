@@ -114,9 +114,8 @@ _I really do enjoy solving puzzles and thus tricky scenarios :)_
 ### Day 22 (27-09-2024)
 - Practiced OOPs related MCQs
 
-### Day 23, 24, 25, 26, 27 (28 September - 2 October)
-- long break :/
+### Day 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33 (28 September - 10 October)
+- long break :/ Not much productive but did basics of cpp, stl well, also a little bit of OS
 
 >[!NOTE]
 _I tend to spend my time gaming and reading books on holidays :')_
-
