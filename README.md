@@ -115,7 +115,8 @@ _I really do enjoy solving puzzles and thus tricky scenarios :)_
 - Practiced OOPs related MCQs
 
 ### Day 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33 (28 September - 10 October)
-- long break :/ Not much productive but did basics of cpp, stl well, also a little bit of OS
+- long break :/ Not much productive but did basics of cpp, stl well, also a little bit of OS and linux commands.
+- Been spending a lil too much time on Gstreamer (lil complex to make it work in python wsl2)
 
 >[!NOTE]
 _I tend to spend my time gaming and reading books on holidays :')_
