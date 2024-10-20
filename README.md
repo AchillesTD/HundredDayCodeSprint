@@ -114,9 +114,17 @@ _I really do enjoy solving puzzles and thus tricky scenarios :)_
 ### Day 22 (27-09-2024)
 - Practiced OOPs related MCQs
 
-### Day 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33 (28 September - 10 October)
+### Day 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34 ,35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45 (28 September - 20 October)
 - long break :/ Not much productive but did basics of cpp, stl well, also a little bit of OS and linux commands.
 - Been spending a lil too much time on Gstreamer (lil complex to make it work in python wsl2)
+- I just joined an organization—exciting news!
+- I uploaded my RTSP2WebRTC project, focusing only on the OpenCV part for now coz I’m still working on the GStreamer side.
+- I've been assigned a new project to develop an ESP burner utility executable using PyQt to automate our testing process. This will likely take up the last few months of my internship because it’s quite a large development task. I'll need to learn several things like pyserial, PyQt, and some MicroPython along the way, but learning new skills has never hurt anyone, right? Really excited about this project!
+- I’m a bit sad, though, since I might not get to continue with the generative AI project. However, this current project is a high priority and will greatly benefit the organization by streamlining the testing process of the ESPs. Plus, I’ll have a solid achievement to add to my resume: improving processes, enhancing customer satisfaction, and contributing to the organization’s profits. Best of all, I’ll actually be the one who made it happen, unlike many who just list it as ~fake~ accomplishments for better ATS scores.
+- I’m kinda hitting pause on the GStreamer part rn coz, I guess I’ve reached a plateau and can't seem to move forward. It’s been a long journey, and admitting that is tough, but I think I just need some time to regroup and find a new angle to tackle it so taking a break for a change plus I have a received a new project as well so...
 
 >[!NOTE]
 _I tend to spend my time gaming and reading books on holidays :')_
+
+### Day 46 (21 October)
+- I’m feeling re-energized and motivated again, all thanks to a really close friend who recentlyy landed a job as a Graduate Engineer Trainee at one of the biggest brokerage firms in the world. I’m genuinely so happy and proud of her!!!! It’s inspiring me to step up and make her...and everyone else proud too.
