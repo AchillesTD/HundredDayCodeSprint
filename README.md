@@ -128,3 +128,9 @@ _I tend to spend my time gaming and reading books on holidays :')_
 
 ### Day 46 (21 October)
 - I’m feeling re-energized and motivated again, all thanks to a really close friend who recentlyy landed a job as a Graduate Engineer Trainee at one of the biggest brokerage firms in the world. I’m genuinely so happy and proud of her!!!! It’s inspiring me to step up and make her...and everyone else proud too.
+
+### Day 47, 48, 49, 50, 51, 52, 53 (22 October - 28 October)
+- Working on bettering a PyQT application that i created.
+- On 53rd day, I finished the first 5 sections of web dev bootcamp by angela yu course.
+
+
